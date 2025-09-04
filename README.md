@@ -1,21 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+# 👋 안녕하세요, 조수아입니다!
 
-## About me
+## 👨‍💻 소개
+- 🏫 한신대학교 재학 중
+- 💡 [게임, 아이돌 덕질에 대해 관심 있음]
+- 🌱 [AISW계열에서 웹프로그래밍 과목을 배우고 있음]
 
-&lt;Basic information&gt;<br>
-이름: 조수아<br>
-생년월일: 2006.01.09<br>
-성별: 여<br>
-거주지: 경기도 수원시<br>
+## 🛠️ 기술 스택
+*   [2종 자동 운전면허 보유]
+*   [기술 습득 중]
+*   [기술 습득 중]
 
-&lt;Educational background&gt;<br>
--망포중학교 졸업<br>
--망포고등학교 졸업<br>
--한신대학교 AISW계열 재학<br>
-
-
-<p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
+<!--
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
+-->
+
+## 📫 연락처
+- 📧 [josua6767@hs.ac.kr]
+- 깃허브: [https://github.com/CHOSUA6767]
