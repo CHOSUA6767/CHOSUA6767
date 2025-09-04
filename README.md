@@ -3,12 +3,12 @@
 ## About me
 
 
-# <Basic information>
+&lt;Basic information&gt;
 이름: 조수아<br>
 생년월일: 2006.01.09<br>
 성별: 여<br>
 
-# <Educational background>
+&lt;Educational background&gt;
 -2022.01.09 망포중학교 졸업
 -2025.01.09 망포고등학교 졸업
 -한신대학교 AISW계열 재학
