@@ -1,5 +1,7 @@
 
-
+<div align="center">
+  <img src="header.svg" alt="animated header" width="100%" />
+</div>
 
 ## 👨‍💻 소개
 - 🏫 한신대학교 재학 중
@@ -20,7 +22,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 -->
-
+₩~
 ## 📫 연락처
 - email📧: [josua6767@hs.ac.kr]
 - 깃허브: [https://github.com/CHOSUA6767]
