@@ -92,7 +92,6 @@
         </div>
         <!-- 가운데 텍스트는 선택사항입니다. 원하면 수정/삭제하세요 -->
         <div class="center">
-          <h1>Your Name — Developer</h1>
           <p>Creative animated background (from wweb.dev generator adapted)</p>
         </div>
       </div>
