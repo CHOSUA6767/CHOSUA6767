@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="header.svg" alt="animated header" width="100%" />
+  <img src="https://chosua6767.github.io/CHOSUA6767/header.svg" alt="animated header" width="100%" />
 </div>
 
 ## 👨‍💻 소개
