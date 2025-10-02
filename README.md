@@ -38,8 +38,6 @@
         }
         .center h1{ margin:0;font-size:28px;letter-spacing:0.6px; }
         .center p{ margin:4px 0 0 0;font-size:12px;opacity:0.85 }
-
-        /* 배경 파티클 */
         .background{ position:absolute; inset:0; width:100%; height:100%; }
         .background span{
           position:absolute;
@@ -52,14 +50,11 @@
           animation: float linear infinite;
           mix-blend-mode: screen;
         }
-
         @keyframes float{
           0%   { transform: translateY(10vh) scale(0.85) rotate(0deg); opacity:0.7; }
           50%  { transform: translateY(-18vh) scale(1.05) rotate(90deg); opacity:1; }
           100% { transform: translateY(10vh) scale(0.9) rotate(180deg); opacity:0.7; }
         }
-
-        /* 개별 파티클 위치/색상/속도 조정 (20개) */
         .background span:nth-child(1){ left:6%;  top:30%;  background: #583C87; width:6vmax; height:6vmax; animation-duration:18s; animation-delay:-2s; box-shadow:0 0 40px #583C87;}
         .background span:nth-child(2){ left:18%; top:62%;  background: #E45A84; width:4.5vmax; animation-duration:14s; animation-delay:-4s; box-shadow:0 0 36px #E45A84;}
         .background span:nth-child(3){ left:30%; top:18%;  background: #FFACAC; width:5vmax; animation-duration:20s; animation-delay:-6s; box-shadow:0 0 44px #FFACAC;}
@@ -87,7 +82,6 @@
           .center h1{font-size:20px}
         }
       </style>
-
       <div class="hero" aria-hidden="true">
         <div class="background" role="presentation">
           <!-- 20개의 span: CodePen의 'bokeh' 스타일을 단순화/정적화한 버전 -->
@@ -96,7 +90,6 @@
           <span></span><span></span><span></span><span></span><span></span>
           <span></span><span></span><span></span><span></span><span></span>
         </div>
-
         <!-- 가운데 텍스트는 선택사항입니다. 원하면 수정/삭제하세요 -->
         <div class="center">
           <h1>Your Name — Developer</h1>
