@@ -1,11 +1,10 @@
-header.svg
-
 <!-- file: header.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Animated background">
   <!-- foreignObject 내부에 XHTML/CSS를 넣어 GitHub README에서 애니메이션을 동작시키는 기법 -->
   <foreignObject x="0" y="0" width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        /* 기본 레이아웃 */
         :root{
           --bg:#0f0c2d;
           --particle-size:5vmax;
@@ -15,7 +14,7 @@ header.svg
           margin:0;padding:0;width:100%;height:100%;
         }
         .hero{
-          width:1200px;      
+          width:1200px;         /* SVG 뷰포트에 고정 폭 */
           height:300px;
           display:block;
           background: linear-gradient(135deg,var(--bg) 0%, #2b0e44 100%);
@@ -23,6 +22,7 @@ header.svg
           position:relative;
           font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
         }
+        /* 중앙 텍스트 (옵션) */
         .center {
           position: absolute;
           left: 50%;
@@ -36,6 +36,8 @@ header.svg
         }
         .center h1{ margin:0;font-size:28px;letter-spacing:0.6px; }
         .center p{ margin:4px 0 0 0;font-size:12px;opacity:0.85 }
+
+        /* 배경 파티클 */
         .background{ position:absolute; inset:0; width:100%; height:100%; }
         .background span{
           position:absolute;
@@ -48,11 +50,14 @@ header.svg
           animation: float linear infinite;
           mix-blend-mode: screen;
         }
+
         @keyframes float{
           0%   { transform: translateY(10vh) scale(0.85) rotate(0deg); opacity:0.7; }
           50%  { transform: translateY(-18vh) scale(1.05) rotate(90deg); opacity:1; }
           100% { transform: translateY(10vh) scale(0.9) rotate(180deg); opacity:0.7; }
         }
+
+        /* 개별 파티클 위치/색상/속도 조정 (20개) */
         .background span:nth-child(1){ left:6%;  top:30%;  background: #583C87; width:6vmax; height:6vmax; animation-duration:18s; animation-delay:-2s; box-shadow:0 0 40px #583C87;}
         .background span:nth-child(2){ left:18%; top:62%;  background: #E45A84; width:4.5vmax; animation-duration:14s; animation-delay:-4s; box-shadow:0 0 36px #E45A84;}
         .background span:nth-child(3){ left:30%; top:18%;  background: #FFACAC; width:5vmax; animation-duration:20s; animation-delay:-6s; box-shadow:0 0 44px #FFACAC;}
@@ -73,6 +78,7 @@ header.svg
         .background span:nth-child(18){ left:28%; top:40%; background: #5D3B8D; width:3.6vmax; animation-duration:12s; animation-delay:-2s; box-shadow:0 0 30px #5D3B8D;}
         .background span:nth-child(19){ left:46%; top:86%; background: #FFB4A2; width:4.1vmax; animation-duration:15s; animation-delay:-7s; box-shadow:0 0 34px #FFB4A2;}
         .background span:nth-child(20){ left:76%; top:36%; background: #FF8FB6; width:5.7vmax; animation-duration:19s; animation-delay:-6s; box-shadow:0 0 40px #FF8FB6;}
+        /* 반응형(뷰포트에 따라 줄임) */
         @media (max-width:800px){
           svg{height:200px}
           .hero{height:200px;width:100%}
@@ -88,9 +94,10 @@ header.svg
           <span></span><span></span><span></span><span></span><span></span>
           <span></span><span></span><span></span><span></span><span></span>
         </div>
+
         <!-- 가운데 텍스트는 선택사항입니다. 원하면 수정/삭제하세요 -->
         <div class="center">
-          <h1>Sua Cho</h1>
+          <h1>Your Name — Developer</h1>
           <p>Creative animated background (from wweb.dev generator adapted)</p>
         </div>
       </div>
