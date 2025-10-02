@@ -1,6 +1,4 @@
 
-# 👋 안녕하세요, 조수아입니다!
-
 <!-- file: header.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Animated background">
   <!-- foreignObject 내부에 XHTML/CSS를 넣어 GitHub README에서 애니메이션을 동작시키는 기법 -->
@@ -91,8 +89,8 @@
           <span></span><span></span><span></span><span></span><span></span>
           <span></span><span></span><span></span><span></span><span></span>
         </div>
-        <!-- 가운데 텍스트는 선택사항입니다. 원하면 수정/삭제하세요 -->
         <div class="center">
+        <h1>Sua Cho</h1>
         </div>
       </div>
     </div>
