@@ -3,17 +3,17 @@
   <img src="header.svg" alt="animated header" width="100%" />
 </div>
 
-## 👨‍💻 소개
-- 🏫 한신대학교 재학 중
+## 👨‍💻 About Me
+- 🏫 [한신대학교 AISW계열 재학 중 (1학년)]
 - 💡 [게임, 아이돌 덕질에 대해 관심 있음]
 - 🌱 [AISW계열에서 웹프로그래밍 과목을 배우고 있음]
 
-## 🛠️ 기술 스택
+## 🛠️ Qualifications
 *   [2종 보통 자동 운전면허 보유]
 
-## 👨‍💻 경력
+## 👨‍💻 Part-time job experience
 *   [수학학원 조교 아르바이트 (2025.01~2025.07)]
-*   [카페 파트타임 아르바이트 (2025.02~현재)]
+*   [컴포즈커피 파트타임 아르바이트 (2025.02~현재)]
 
 <!--
 <p>
@@ -23,7 +23,10 @@
 </p>
 -->
 ₩~
-## 📫 연락처
-- email📧: [josua6767@hs.ac.kr]
+
+## 📫 Contact
+- email📧: [josua6767@hs.ac.kr],[suajo38@gmail.com]
 - 깃허브: [https://github.com/CHOSUA6767]
 - instargram: [https://www.instagram.com/jotsua_67/]
+
+## 🐍 Contribution Snake
