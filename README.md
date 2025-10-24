@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 -->
-₩~
 
 ## 📫 Contact
 - email📧: [josua6767@hs.ac.kr],[suajo38@gmail.com]
