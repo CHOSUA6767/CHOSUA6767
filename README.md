@@ -25,3 +25,6 @@
 - email📧: [josua6767@hs.ac.kr]
 - 깃허브: [https://github.com/CHOSUA6767]
 - instargram: [https://www.instagram.com/jotsua_67/]
+
+![Snake](https://raw.githubusercontent.com/CHOSUA67679/CHOSUA6767/main/assets/github-contribution-grid-snake.svg)
+
