@@ -27,5 +27,6 @@
 - instargram: [https://www.instagram.com/jotsua_67/]
 
 ## 🐍 Contribution Snake
-![Snake](https://raw.githubusercontent.com/CHOSUA67679/CHOSUA6767/main/assets/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CHOSUA6767/CHOSUA6767/main/assets/github-contribution-grid-snake.svg" alt="animated header" width="100%" />
+</div>
