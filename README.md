@@ -21,10 +21,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 -->
-## 📫 연락처
+## 📫 Contact
 - email📧: [josua6767@hs.ac.kr]
 - 깃허브: [https://github.com/CHOSUA6767]
 - instargram: [https://www.instagram.com/jotsua_67/]
 
+## 🐍 Contribution Snake
 ![Snake](https://raw.githubusercontent.com/CHOSUA67679/CHOSUA6767/main/assets/github-contribution-grid-snake.svg)
 
