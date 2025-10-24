@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="header.svg" alt="animated header" width="100%" />
+  <img src="https://raw.githubusercontent.com/CHOSUA6767/CHOSUA6767/main/header.svg" alt="animated header" width="100%" />
 </div>
 
 ## 👨‍💻 About Me
@@ -22,10 +21,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 -->
-
-## 📫 Contact
-- email📧: [josua6767@hs.ac.kr],[suajo38@gmail.com]
+## 📫 연락처
+- email📧: [josua6767@hs.ac.kr]
 - 깃허브: [https://github.com/CHOSUA6767]
 - instargram: [https://www.instagram.com/jotsua_67/]
-
-## 🐍 Contribution Snake
