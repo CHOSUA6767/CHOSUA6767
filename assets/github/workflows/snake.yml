@@ -1,8 +1,8 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 18 * * *"  # 매일 KST 새벽 3시 실행 (UTC 18시)
-  workflow_dispatch:       # 수동 실행도 가능
+    - cron: "0 18 * * *"  
+  workflow_dispatch:      
 
 jobs:
   build:
