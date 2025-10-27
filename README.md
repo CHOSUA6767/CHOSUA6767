@@ -27,5 +27,5 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CHOSUA6767/CHOSUA6767/main/assets/github-contribution-grid-snake.svg" alt="animated header" width="100%" />
+  <img src="https://raw.githubusercontent.com/CHOSUA6767/CHOSUA6767/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
