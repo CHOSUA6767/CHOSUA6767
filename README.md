@@ -3,15 +3,21 @@
 </div>
 
 ## 👨‍💻 About Me
-- 🏫 [한신대학교 AISW계열 재학 중 (1학년)]
-- 💡 [게임, 아이돌 덕질에 대해 관심 있음]
-- 🌱 [AISW계열에서 웹프로그래밍 과목을 배우고 있음]
+* 🏫 [한신대학교 AISW계열 재학 중 (1학년)]
+* 💡 [게임, 아이돌 덕질에 관심 있음]
+* 🌱 [AISW계열에서 웹프로그래밍 과목을 배우고 있음]
 
 ## 🛠️ Qualifications
-*   [2종 보통 자동 운전면허 보유]
+* 🚗 [2종 보통 자동 운전면허 보유중]
 
 ## 👨‍💻 Part-time job experience
-*   [컴포즈커피 파트타임 아르바이트 (2025.02~현재)]
+* ☕ [컴포즈커피 파트타임 아르바이트 (2025.02~현재)]
+
+## 🏆 Awards
+* 📂 [캡스톤 디자인 및 AI 해커톤 대회 생성형 AI를 활용한 비즈니스 모델 구축 부문 장려상 (2025.10.24~2025.10.26)]
+
+## 💻 Projects
+* 📁 
 
 <!--
 <p>
@@ -21,7 +27,7 @@
 </p>
 -->
 ## 📫 Contact
-- email📧: [josua6767@hs.ac.kr]
+- email📧: [josua6767@hs.ac.kr], [josua6767@naver.com]
 - 깃허브: [https://github.com/CHOSUA6767]
 - instargram: [https://www.instagram.com/jotsua_67/]
 
