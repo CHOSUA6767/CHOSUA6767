@@ -18,6 +18,7 @@
 
 ## 💻 Projects 
 * 📂 [정확하고 안전한 AI 활용을 위한 기업 보안 프레임워크 구축]
+  * [2025 AI 강촌 해커톤 대회.pdf](https://raw.githubusercontent.com/CHOSUA6767/CHOSUA6767/main/2025_AI_%EA%B0%95%EC%B4%8C_%ED%95%B4%EC%BB%A4%ED%86%A4_%EB%8C%80%ED%9A%8C%20.pdf)
 
 <!--
 <p>
