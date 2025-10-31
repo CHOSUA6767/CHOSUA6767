@@ -16,6 +16,9 @@
 ## 🏆 Awards
 * 📂 [캡스톤 디자인 및 AI 해커톤 대회 생성형 AI를 활용한 비즈니스 모델 구축 부문 장려상 (2025.10.24~2025.10.26)]
 
+## 💻 Projects 
+* 📂 [정확하고 안전한 AI 활용을 위한 기업 보안 프레임워크 구축]
+
 <!--
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
